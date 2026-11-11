@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/medieval/hall.svg" width="100%" alt="The great hall of Sir Umais Adeed: his name forged in gold blackletter beneath a coat of arms bearing a silver raven over crossed longswords, flanked by the banners of Huginn and Muninn, the ravens Thought and Memory, with torches burning on a stone wall. AI Engineer, Knight of the Agentic Order, Islamabad">
+  <img src="assets/medieval/hall.svg" width="100%" alt="The great hall of Sir Umais Adeed: his name forged in gold blackletter beneath a coat of arms bearing a silver raven over crossed longswords, flanked by the banners of Huginn and Muninn, the ravens Thought and Memory, with torches burning on a stone wall. Motto: By Code and Steel. AI Engineer, Knight of the Agentic Order, Android Developer">
 </p>
 
 <p align="center">
